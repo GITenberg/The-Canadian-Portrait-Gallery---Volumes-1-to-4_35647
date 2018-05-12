@@ -1,0 +1,27 @@
+_repo: The-Canadian-Portrait-Gallery---Volumes-1-to-4_35647
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dent, John Charles
+    birthdate: 1841
+    deathdate: 1888
+    gutenberg_agent_id: '2255'
+    url: http://www.gutenberg.org/2009/agents/2255
+    wikipedia: http://en.wikipedia.org/wiki/John_Charles_Dent
+description: ''
+gutenberg_issued: '2011-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35647'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Biography'
+- !lcc 'F1001'
+title: The Canadian Portrait Gallery - Volume 3 (of 4)
+url: http://www.gutenberg.org/ebooks/35647
